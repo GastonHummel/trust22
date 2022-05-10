@@ -84,7 +84,7 @@ var Translations = {
    */
   ChapterSettings: [
     {
-      label: "Trust'22 Invitation",
+      label: "Trust '22 Invitation",
       states: [
         {
           cardId: '3d578110',
